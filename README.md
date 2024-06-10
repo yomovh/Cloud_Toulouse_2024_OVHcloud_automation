@@ -37,7 +37,7 @@ application_secret=
 consumer_key=
 ```
 
-Or in environment variable (required for the last example because of acme)
+Or in environment variable (required for the last example because of acme provider in terraform)
 ```bash
 export OVH_ENDPOINT=ovh-eu
 export OVH_APPLICATION_KEY=
@@ -56,7 +56,7 @@ Now go back to your API console browser tab, copy the Python code and paste a
 ```bash
 vim list_instances.py
 ```
-* Remove the autentication in the code (we are using configuration file)
+* Remove the authentication in the code (we are using configuration file)
 * Replace the {servicename} by the value copied from the control panel (below you project name)
 
 ```python
