@@ -1,4 +1,4 @@
-# Notes for the demo that illustrates the talk "How to industrialize the deployment of your solutions with OVHcloud ?" given at OVHCloud Toulouse Meetup
+# Notes for the demo that illustrates the talk "How to industrialize the deployment of your solutions with OVHcloud ?" given at Cloud Toulouse 2024
 
 ## OVHcloud control panel interface
 
